@@ -1,0 +1,23 @@
+package Day3;
+public class Control {
+	public static void main(String[] args) {
+	int num=9;
+	if(num==9);
+	{
+		System.out.println("the number is 9");
+	}
+	if(num>7)
+	{
+		System.out.println("the number is >than nine");
+	}
+	if(num>10)
+	{
+		System.out.println("the number is > than nine");
+	}
+	else {
+		System.out.println("Nothing");
+	}
+
+	}
+
+}

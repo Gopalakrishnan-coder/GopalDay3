@@ -1,0 +1,27 @@
+package Day3;
+public class Switch {
+	public static void main(String[] args) {
+		int num = 2;
+		switch(num)
+		{
+		case 0:
+		{
+			System.out.println("Monday");
+		}
+		case 1:
+		{
+			System.out.println("Tuesday");
+		}
+		case 2:
+		{
+			System.out.println("Wednesday");
+		}
+		case 3:
+		{
+			System.out.println("Thursday");
+		}
+		
+		}
+	}
+
+}
